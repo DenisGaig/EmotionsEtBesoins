@@ -1,0 +1,182 @@
+{
+  "Amoureux": {
+    "image": "",
+    "synonyms": ["Charmé", "Emu"],
+    "target": ["adult"]
+  },
+  "Angoissé": {
+    "image": "",
+    "synonyms": ["Anxieux", "Tourmenté"],
+    "target": ["adult"]
+  },
+  "Assommé": {
+    "image": "",
+    "synonyms": ["Accablé", "Etourdi"],
+    "target": ["teen", "adult"]
+  },
+  "attendri": {
+    "image": "",
+    "synonyms": ["désarmé", "touché"],
+    "target": ["teen", "adult"]
+  },
+  "blasé": {
+    "image": "",
+    "synonyms": ["détaché", "indiﬀérent"],
+    "target": ["teen", "adult"]
+  },
+  "bloqué": {
+    "image": "",
+    "synonyms": ["coincé", "emprisonné"],
+    "target": ["teen", "adult"]
+  },
+  "brisé": {
+    "image": "",
+    "synonyms": ["anéanti", "détruit"],
+    "target": ["teen", "adult"]
+  },
+  "calme": {
+    "image": "",
+    "synonyms": ["serein", "zen"],
+    "target": ["teen", "adult"]
+  },
+  "choqué": {
+    "image": "",
+    "synonyms": ["indigné", "scandalisé"],
+    "target": ["teen", "adult"]
+  },
+  "crispé": {
+    "image": "",
+    "synonyms": ["nerveux", "tendu"],
+    "target": ["teen", "adult"]
+  },
+  "curieux": {
+    "image": "",
+    "synonyms": ["absorbé", "captivé"],
+    "target": ["teen", "adult"]
+  },
+  "découragé": {
+    "image": "",
+    "synonyms": ["désespéré", "résigné"],
+    "target": ["teen", "adult"]
+  },
+  "dégoûté": {
+    "image": "",
+    "synonyms": ["écoeuré", "nauséeux"],
+    "target": ["teen", "adult"]
+  },
+  "déséquilibré": {
+    "image": "",
+    "synonyms": ["déstabilisé", "secoué"],
+    "target": ["teen", "adult"]
+  },
+  "désolé": {
+    "image": "",
+    "synonyms": ["attristé", "navré"],
+    "target": ["teen", "adult"]
+  },
+  "diﬀérent": {
+    "image": "",
+    "synonyms": ["étrangé", "exilé"],
+    "target": ["teen", "adult"]
+  },
+  "distrait": {
+    "image": "",
+    "synonyms": ["dispersé", "éparpillé"],
+    "target": ["teen", "adult"]
+  },
+  "écrasé": {
+    "image": "",
+    "synonyms": ["plombé", "surchargé"],
+    "target": ["teen", "adult"]
+  },
+  "émerveillé": {
+    "image": "",
+    "synonyms": ["admiratif", "ébloui"],
+    "target": ["teen", "adult"]
+  },
+  "encouragé": {
+    "image": "",
+    "synonyms": ["épaulé", "soutenu"],
+    "target": ["teen", "adult"]
+  },
+  "énergique": {
+    "image": "",
+    "synonyms": ["bouillonnant", "dynamique"],
+    "target": ["teen", "adult"]
+  },
+  "épouvanté": {
+    "image": "",
+    "synonyms": ["aﬀolé", "terriﬁé"],
+    "target": ["teen", "adult"]
+  },
+  "épuisé": {
+    "image": "",
+    "synonyms": ["éreinté", "usé"],
+    "target": ["teen", "adult"]
+  },
+  "étonné": {
+    "image": "",
+    "synonyms": ["stupéfait", "surpris"],
+    "target": ["teen", "adult"]
+  },
+  "exaspéré": {
+    "image": "",
+    "synonyms": ["excédé", "furieux"],
+    "target": ["teen", "adult"]
+  },
+  "excité": {
+    "image": "",
+    "synonyms": ["émoustillé", "fébrile"],
+    "target": ["teen", "adult"]
+  },
+  "ﬁer": {
+    "image": "",
+    "synonyms": ["content", "satisfait"],
+    "target": ["teen", "adult"]
+  },
+  "fort": {
+    "image": "",
+    "synonyms": ["puissant", "solide"],
+    "target": ["teen", "adult"]
+  },
+  "frustré": {
+    "image": "",
+    "synonyms": ["contrarié", "déçu"],
+    "target": ["teen", "adult"]
+  },
+  "grognon": {
+    "image": "",
+    "synonyms": ["maussade", "râleur"],
+    "target": ["teen", "adult"]
+  },
+  "heureux": {
+    "image": "",
+    "synonyms": ["épanoui", "ouvert"],
+    "target": ["teen", "adult"]
+  },
+  "Joie": {
+    "image": "./img/joie.jpg",
+    "synonyms": ["Allégresse", "Bonheur"],
+    "target": ["child", "teen", "adult"]
+  },
+  "Tristesse": {
+    "image": "./img/tristesse.jpg",
+    "synonyms": ["Mélancolie", "Chagrin"],
+    "target": ["child", "teen", "adult"]
+  },
+  "Colère": {
+    "image": "./img/colere.jpg",
+    "synonyms": ["Fureur", "Rage"],
+    "target": ["teen", "adult"]
+  },
+  "Peur": {
+    "image": "./img/peur.jpg",
+    "synonyms": ["Angoisse", "Effroi"],
+    "target": ["child", "teen", "adult"]
+  },
+  "Surprise": {
+    "image": "",
+    "synonyms": ["Étonnement", "Stupéfaction"],
+    "target": ["child", "teen", "adult"]
+  }
+}
