@@ -1,0 +1,6 @@
+#image folder
+img/
+
+#json files
+needs.json
+sentiments.json
