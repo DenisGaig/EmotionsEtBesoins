@@ -12,14 +12,27 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+    <header>
+      <a href="#" class="logo">Logo</a>
+      <nav class="navbar">
+        <a class="intro active">Accueil<span></span></a>
+        <a class="start">Commencer<span></span></a>
+        <a class="resume">Résumé<span></span></a>
+        <a class="account">Mon compte<span></span></a>
+      </nav>
+    </header>
     <button class="dark-mode-toggle" id="dark-mode-toggle">Mode sombre</button>
     <div class="app">
       <h1></h1>
-      <main></main>
-      <div class="btn-container"></div>
+      <main id="main"></main>
+      <div class="app-right">
+        <div id="up"></div>
+        <div id="down"></div>
+      </div>
     </div>
+    <div class="btn-container"></div>
 
     <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
-    <script src="index.js"></script>
+    <script type="module" src="index.js"></script>
   </body>
 </html>
